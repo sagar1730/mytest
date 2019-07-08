@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Author : Sagar
 # Organization : Genpact
+=======
+>>>>>>> 5928327b2d0de7ac633143e77740c27982beea54
 
 #-----------------------------------------------#
 echo "GENPACT DDE AUTOMATION - WINDOWS HARDENING"
