@@ -1,4 +1,6 @@
 # Author : Sagar
+# Organization : Genpact
+
 #-----------------------------------------------#
 echo "GENPACT DDE AUTOMATION - WINDOWS HARDENING"
 #-----------------------------------------------#
