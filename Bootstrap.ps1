@@ -8,6 +8,7 @@
 echo "GENPACT DDE AUTOMATION - WINDOWS HARDENING"
 #-----------------------------------------------#
 
+# New Comment
 ## GET AWS SECRETS AND ENCRYPT PASSWORDS
 $DNSIP      = (Get-SSMParameterValue -Name /DDE-BootStrap/Windows/NIC/DNS).Parameters[0].Value
 $DomainName = (Get-SSMParameterValue -Name /DDE-BootStrap/Windows/Domain/Name).Parameters[0].Value
